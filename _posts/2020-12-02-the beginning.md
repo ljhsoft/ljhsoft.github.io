@@ -1,6 +1,6 @@
 ---
 title: Self Driving Car
-categories: post
+categories: post, tagname
 mathjax: true
 published: true
 ---
