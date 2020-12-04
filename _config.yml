@@ -30,31 +30,14 @@ plainwhite:
     - title: Resume
       url: "/resume"
     - title: Archive
-      url: "archive.md"
+      url: "/archive.md"
   #baseurl: "/blog"
   # generate social links in footer
   social_links:
     twitter: ljhsoft
     github:  ljhsoft
     linkedIn: ljhsoft
-    #rss: rss
-    #dribbble: jekyll
-    #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
-    #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
+   
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
