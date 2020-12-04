@@ -1,5 +1,7 @@
 ---
-published: true
+title:  "Self Driving Car"
+categories: post
+mathjax: true
 ---
 ## github을 이용한 블로그 만들기
 
