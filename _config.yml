@@ -29,7 +29,8 @@ plainwhite:
       url: "/my-work"
     - title: Resume
       url: "/resume"
-    - archive.md
+    - title: Archive
+      url: "archive.md"
   #baseurl: "/blog"
   # generate social links in footer
   social_links:
